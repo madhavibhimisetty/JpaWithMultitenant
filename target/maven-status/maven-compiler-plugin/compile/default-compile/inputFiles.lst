@@ -1,0 +1,10 @@
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/DetectTenant.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/DemoApplication.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/UserService.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/UserRepository.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/DBConfig.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/Emp.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/CurrentTenantIdentifierResolverImpl.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/TenanatDataSource.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/all/MultiTenantSchemaConnectionProvider.java
+/home/omni/Desktop/A/eclipse_workspaces/march/spring-data-jpa/src/main/java/com/omniwyse/springdatajpa/App.java
